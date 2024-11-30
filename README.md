@@ -4,11 +4,12 @@ I'm a passionate **React Native Developer** with a strong background in **JavaSc
 
 ## 📫 How to reach me:
 - **Email**: [your-email@gmail.com](mailto:your-email@gmail.com)
-- **Medium**: [@hilalovali0501](https://medium.com/@hilalovali0501)
 - **LinkedIn**: [Ali Hilalov](https://www.linkedin.com/in/ali-hilalov-282b74269/)
+- **Medium**: [@hilalovali0501](https://medium.com/@hilalovali0501)
 - **Twitter**: [@HilalovAli](https://x.com/HilalovAli)
-- **GitHub**: [ali-hilalov](https://github.com/alihilalov)
-
 
 ## 📊 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=alihilalov&color=blueviolet)
+
+_"Strive for progress, not perfection."_  
+Feel free to explore my repositories, and let's collaborate! 🌱
