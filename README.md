@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Hilalov 👋
 
-I'm a passionate **React Native Developer** with a strong background in **JavaScript**, **TypeScript**, and building modern mobile apps. Welcome to my GitHub profile! 🚀
+I'm a passionate **React Native Developer** with a strong background in **JavaScript**, **TypeScript**, and building modern cross-platfrom  mobile apps both iOS & Android. Welcome to my GitHub profile! 🚀
 
 ## 📫 How to reach me:
 - **Email**: [your-email@gmail.com](mailto:your-email@gmail.com)
