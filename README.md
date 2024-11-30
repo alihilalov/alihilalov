@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Ali 👋
 
-<!--
-**alihilalov/alihilalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate React Native developer! Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
+- **Email**: [hilalovali0501@gmail.com](mailto:hilalovali0501@gmail.com)
+- **Twitter**: [@your_twitter](https://twitter.com/your_twitter)
+- **LinkedIn**: [Ali LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ali-hilalov-282b74269/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihilalov&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 📊 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=alihilalov&color=blueviolet)
