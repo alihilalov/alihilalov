@@ -7,7 +7,9 @@ I'm a passionate **React Native Developer** with a strong background in **JavaSc
 - **LinkedIn**: [Ali Hilalov](https://www.linkedin.com/in/ali-hilalov-282b74269/)
 - **Medium**: [@hilalovali0501](https://medium.com/@hilalovali0501)
 - **Twitter**: [@HilalovAli](https://x.com/HilalovAli)
-
+  
+## ✨ Contributions:
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alihilalov&theme=blueberry)
 ## 📊 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=alihilalov&color=blueviolet)
 
