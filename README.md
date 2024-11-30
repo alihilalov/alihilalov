@@ -9,8 +9,6 @@ I'm a passionate **React Native Developer** with a strong background in **JavaSc
 - **Twitter**: [@HilalovAli](https://x.com/HilalovAli)
 - **GitHub**: [ali-hilalov](https://github.com/alihilalov)
 
-## 🚀 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihilalov&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📊 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=alihilalov&color=blueviolet)
