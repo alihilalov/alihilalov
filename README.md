@@ -8,10 +8,16 @@ I'm a passionate **React Native Developer** with a strong background in **JavaSc
 - **Medium**: [@hilalovali0501](https://medium.com/@hilalovali0501)
 - **Twitter**: [@HilalovAli](https://x.com/HilalovAli)
   
-## ✨ Contributions:
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alihilalov&theme=blueberry)
-## 📊 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=alihilalov&color=blueviolet)
+## 🚀 My GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihilalov&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 📊 Contributions & Profile Views:
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihilalov&theme=blueberry" width="45%" />
+  <img src="https://komarev.com/ghpvc/?username=alihilalov&color=blueviolet" width="45%" />
+</div>
+
 
 _"Strive for progress, not perfection."_  
 Feel free to explore my repositories, and let's collaborate! 🌱
